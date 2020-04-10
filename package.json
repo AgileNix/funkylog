@@ -1,0 +1,26 @@
+{
+  "name": "funkylog",
+  "version": "0.0.1",
+  "description": "Make your console.logs look funky by adding a randomized delay between printing the symbols!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgileNix/funkylog.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "console.log",
+    "delay"
+  ],
+  "author": "agilenix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgileNix/funkylog/issues"
+  },
+  "homepage": "https://github.com/AgileNix/funkylog#readme",
+  "type": "module"
+}
